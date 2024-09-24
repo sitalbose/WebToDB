@@ -1,0 +1,9 @@
+{
+	"folders": [],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "lamps",
+		"java.project.sourcePaths": [
+			"JDBC/src"
+		]
+	}
+}
